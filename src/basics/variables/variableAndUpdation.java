@@ -1,4 +1,4 @@
-package Basics.variables;
+package basics.variables;
 
 public class variableAndUpdation {
     public static void main(String[] args) {

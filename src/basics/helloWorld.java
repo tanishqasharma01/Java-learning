@@ -1,4 +1,4 @@
-package Basics;
+package basics;
 
 public class helloWorld {
     public static void main(String[] args) {
