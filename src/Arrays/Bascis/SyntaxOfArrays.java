@@ -4,7 +4,8 @@ package Arrays.Bascis;
 
 public class SyntaxOfArrays {
     public static void main(String[] args) {
-        int[] arr = new int[5];
+       // int[] arr; //declaration
+        int[] arr = new int[5]; // memory allocation
         // initialising individual elements
         arr[0] = 10;
         arr[1] = 20;
